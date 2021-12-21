@@ -1,4 +1,5 @@
 # algorithm
+
 web algorithm
 
 1.  冒泡排序
@@ -69,3 +70,9 @@ web algorithm
     let arrSort = insertionSort(arr)
     console.log(arrSort) // [ 1, 2, 3, 4, 6, 8, 10, 45, 123, 999 ]
     ```
+
+4.  事件循环 1
+
+5.  事件循环 2
+
+6.  递归删除空的 Children 数组
